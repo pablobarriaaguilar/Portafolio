@@ -83,17 +83,20 @@ header {
 }
 
 .tec > img{
-    padding-top: 20%;
-    width: 60%;
+    padding-top: 100px;
+    width: 100px;
 }
 
 .tecTitle{
     display: flex;
-    justify-content: center;
+    color: #58c291;
+    
 }
 .tecnologias{
     height: 340px;
     padding: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
 .tecContainer{
