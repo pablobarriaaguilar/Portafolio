@@ -86,10 +86,11 @@ header {
 .tec > img{
     padding-top: 100px;
     width: 100px;
+    
 }
 
 .tecnologias{
-    border-style: solid;
+    
     height: 100%;
     display: flex;
     background-color: #F7F7F7;
