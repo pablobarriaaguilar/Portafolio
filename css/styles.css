@@ -60,12 +60,14 @@ a {
 
 .card{
     width: 600px;
-    height: 300px;
+    height: 590px;
     background-color: transparent;
     display: flex;
     flex-direction: column;
     align-items: center;
     color: #F7F7F7;
+    border-style: solid;
+    background-color: rgba(0, 0, 0, 0.7);
     
 }
 
@@ -95,9 +97,16 @@ a {
 }
 
 .tec > img{
-    padding-top: 100px;
+    padding-top: 10px;
     width: 100px;
+
     
+    
+}
+
+img:hover{
+    border-radius: 100%;
+    box-shadow: 10px 5px 5px red;
     
 }
 
@@ -131,8 +140,9 @@ a {
     width: 900px;
     display: flex;
     justify-content: space-around;
-    height: 200px;
+    height: 160px;
     align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
     
 }
 
@@ -146,7 +156,5 @@ a {
     display: none;
 }
 
-.img-round{
-color: #F7F7F7;
 
-}
+
