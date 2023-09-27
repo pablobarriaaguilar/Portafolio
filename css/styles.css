@@ -50,7 +50,7 @@ a {
     color: #333333;
     align-items: center;
     padding: 2rem;
-    background-image: url("https://raw.githubusercontent.com/pablobarriaaguilar/Portafolio/main/assets/fondo2.gif");
+    background-image: url(../assets/fondo4.gif);
     background-repeat: no-repeat;
     background-size: cover;
     border-style: solid;
@@ -97,6 +97,7 @@ a {
 .tec > img{
     padding-top: 100px;
     width: 100px;
+    
     
 }
 
@@ -147,4 +148,5 @@ a {
 
 .img-round{
 color: #F7F7F7;
+
 }
